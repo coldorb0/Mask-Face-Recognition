@@ -16,10 +16,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">How to install Webmin on Ubuntu AWS</h3>
-
+<h3 align="center">Mask on/off Face Recognition Artificial Intelligence using OpenCV
+</h3>
   <p align="center">
-    Real-timing Insttance Monitoring and Managging config file, database and permission in web
+  Face Mask Detection system based on
+computer vision and deep learning using
+OpenCV and Tensorflow/Keras
     <br />
     <a href="https://github.com/fireorb/Mask-Face-Recognition"><strong>Explore the docs »</strong></a>
     <br />
