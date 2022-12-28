@@ -57,13 +57,7 @@ OpenCV and Tensorflow/Keras
 
 [![Product Name Screen Shot][product-screenshot]](https://www.webmin.com/)
 
-After training artificial intelligence with a face photo dataset obtained from Google through web crawling,
-
-Transfer-Learning is used to determine whether to wear a new face mask that is not in the dataset.
-
-After fine-tuning to improve performance, it was trained using MobileNetV2, a type of CNN.
-
-
+"Mask on/off with face recognition AI using OpenCV" is a system that utilizes artificial intelligence and computer vision techniques to detect whether individuals are wearing masks or not. This system employs the OpenCV library to process video feeds from cameras and perform facial recognition to identify individuals within the frame. If an individual is detected without a mask, an alert can be triggered to remind them to put on a mask or take other necessary precautions. This technology has the potential to be used in a variety of settings, such as schools, offices, and public transportation, to promote mask-wearing and help reduce the spread of COVID-19 and other respiratory infections. It can also be used in conjunction with other public health measures, such as temperature checks, to further ensure the safety and wellbeing of individuals in public spaces.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
